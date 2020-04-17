@@ -3,3 +3,4 @@ test
 
 this file changing from git hub need to fetch the changes to local and see the fetch command works to my local respository
 
+editing from git respository directly..
